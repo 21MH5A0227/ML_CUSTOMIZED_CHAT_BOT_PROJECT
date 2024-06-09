@@ -34,10 +34,7 @@
                 "hmm",
                 "cool",
                 "oh nice,really",
-                "its cool",
-                "nice",
-                "good to hear that",
-                "hm"
+                "its cool"
             ],
             "responses": [
                 "Hmm",
@@ -53,10 +50,7 @@
                 "see you later",
                 "goodbye",
                 "byee",
-                "bye",
-                "ok then see you later",
-                "ok nice to meet you",
-                "nice to meet you"
+                "bye"
             ],
             "responses": [
                 "See you later",
@@ -462,11 +456,7 @@
                 "give me a hand please",
                 "can you help?",
                 "i need a help",
-                "what can you do for me?",
-                "i need ur help",
-                "i need your help",
-                "i need a favour from u",
-                "i need a favour from you"
+                "what can you do for me?"
             ],
             "responses": [
                 "Tell me how can assist you",
@@ -1206,10 +1196,6 @@
         {
             "tag": "courses",
             "patterns": [
-                "what are the courses available at thub",
-                "what are the courses available at thub?",
-                "what are the courses available at technical hub",
-                "what are the courses available at technical hub?",
                 "is new technologies courses are available in technical hub?",
                 "is new technologies courses are available in technical hub",
                 "which courses are you teaching",
@@ -1240,12 +1226,6 @@
             "tag": "programming courses",
             "patterns": [
                 "what are the programming language courses available at technical hub?",
-                "what are the programming courses available at thub?",
-                "what are the programming courses available at technical hub?",
-                "what are the programming courses available at thub",
-                "what are the programming courses available at t hub",
-                "what are the programming courses available at t hub?",
-                "what are the programming courses available at technical hub",
                 "coding courses?",
                 "what are the programming language courses available at t hub?",
                 "programming courses",
